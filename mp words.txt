@@ -1,0 +1,28 @@
+
+
+
+爱神巧克力.Eros.Chocolate.Ⅰ => 爱神巧克力{[tmdbid=69203;type=tv;s=1]}
+爱神巧克力.Eros.Chocolate.Ⅱ => 爱神巧克力{[tmdbid=69203;type=tv;s=2]}
+Oshi no Ko => 我推的孩子{[tmdbid=203737;type=tv;s=1]}
+Saenai Heroine no Sodatekata Fine => 路人女主的养成方法 Fine {[tmdbid=608826;type=movie]}
+Saenai Heroine no Sodatekata Flat => 路人女主的养成方法 {[tmdbid=69367;type=tv;s=2]}
+Saenai Heroine no Sodatekata => 路人女主的养成方法 {[tmdbid=69367;type=tv;s=1]}
+刑天 => 铠甲勇士刑天 {[tmdbid=122079;type=tv]}
+Kuzu no Honkai => {[tmdbid=69292;type=tv]}
+Youzitsu2 => {[tmdbid=72517;type=tv;s=2]}
+NieR Automata Ver1.1a => {[tmdbid=158373;type=tv]}
+Heavy.Sweetness.Ash.Like.Frost => {[tmdbid=80884;type=tv]}
+铠甲勇士光影 => {[tmdbid=122077;type=tv]}
+铠甲勇士拿瓦 => {[tmdbid=116492;type=tv]}
+铠甲勇士捕将 => {[tmdbid=157678;type=tv]}
+一只鸟仔哮啾啾 => {[tmdbid=658522;type=movie]}
+殺戮の天使 => {[tmdbid=80477;type=tv]}
+Wan.Mei.Shi.Jie => 完美世界 {[tmdbid=124003;type=tv]}
+从你的全世界路过 => {[tmdbid=415636;type=movie]}
+被我弄丢的你 => {[tmdbid=1155272;type=movie]}
+Black.Sun => 假面骑士黑日 {[tmdbid=135822;type=tv]}
+Regeneration => 新生 {[tmdbid=236617;type=tv]}
+The.King.2017 => 王者 {[tmdbid=434724;type=movie]}
+Jade.Dynasty. => 诛仙 {[tmdbid=206484;type=tv]}
+
+
