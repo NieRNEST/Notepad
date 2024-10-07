@@ -1,6 +1,8 @@
 
 
 
+Eromanga Sensei [OVA01] => 埃罗芒阿老师{[tmdbid=70878;type=tv;s=0;e=1]}
+Eromanga Sensei [OVA02] => 埃罗芒阿老师{[tmdbid=70878;type=tv;s=0;e=2]}
 爱神巧克力.Eros.Chocolate.Ⅰ => 爱神巧克力{[tmdbid=69203;type=tv;s=1]}
 爱神巧克力.Eros.Chocolate.Ⅱ => 爱神巧克力{[tmdbid=69203;type=tv;s=2]}
 Oshi no Ko => 我推的孩子{[tmdbid=203737;type=tv;s=1]}
