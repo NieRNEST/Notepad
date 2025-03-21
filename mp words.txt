@@ -96,4 +96,3 @@ Regeneration => 新生 {[tmdbid=236617;type=tv]}
 The.King.2017 => 王者 {[tmdbid=434724;type=movie]}
 
 
-
