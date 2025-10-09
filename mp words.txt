@@ -1,4 +1,6 @@
 # mp words自用
+假面騎士 ZEZTZ => 假面骑士 (1971) {tmdbid=2661}.S36
+
 ReLIFE \[1[4-7]\(OVA => 重生计划 (2016) {tmdbid=66941}.S00E
 
 Nanatsu.no.Taizai.Seisen.no.Shirushi.OVA => 七大罪 (2014) {tmdbid=62104}.S00 && S00 <> 2016 >> EP+3
