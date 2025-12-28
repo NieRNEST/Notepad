@@ -3,5 +3,10 @@
     "name": "StarRail",
     "englishName": "StarRail",
     "processName": "StarRail.exe"
+  },
+  {
+    "name": "ZFGameBrowser",
+    "englishName": "ZFGameBrowser",
+    "processName": "ZFGameBrowser.exe"
   }
 ]
