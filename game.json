@@ -1,0 +1,14 @@
+[
+  {
+    "name": "StarRail",
+    "englishName": "StarRail",
+    "processName": "StarRail.exe",
+    "coverUrl": "https://sr.mihoyo.com/favicon-mi.ico"
+  },
+  {
+    "name": "Apex Legends",
+    "englishName": "Apex Legends",
+    "processName": "r5apex_dx12.exe",
+    "coverUrl": "https://example.com/apex-cover.jpg"
+  }
+]
