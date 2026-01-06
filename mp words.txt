@@ -1,4 +1,9 @@
 # mp words自用
+
+Arifureta Shokugyou de Sekai Saikyou S2 \[OVA\] => 平凡职业造就世界最强 (2019) {tmdbid=86034}.S02E14
+Arifureta Shokugyou de Sekai Saikyou S2 => 平凡职业造就世界最强 (2019) {tmdbid=86034}.S02
+Arifureta Shokugyou de Sekai Saikyou => 平凡职业造就世界最强 (2019) {tmdbid=86034}.S01
+
 Let′s Play 充滿挑戰的人生 => Let's Play 充满挑战的人生 (2025) {tmdbid=293010}
 
 異世界四重奏 3 => 异世界四重奏 (2019) {tmdbid=87478}.S03
